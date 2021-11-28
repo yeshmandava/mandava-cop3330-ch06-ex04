@@ -3,11 +3,6 @@
 
 #endif //MANDAVA_COP3330_CH03_EX10_STD_LIB_FACILITIES_H
 
-#ifndef UNTITLED1_STD_LIB_FACILITIES_H
-#define UNTITLED1_STD_LIB_FACILITIES_H
-
-#endif //UNTITLED1_STD_LIB_FACILITIES_H
-
 /**
  *  UCF COP3330 Fall 2021 Assignment 5 Solution
  *  Copyright 2021 Yeshwanth Mandava

@@ -23,7 +23,7 @@ int main()
 
     cout << "Enter a set of name-and-value pairs (Jackson 22).\nTo exit the input enter 'NoName 0'\nEnter the name followed by a space and the number:\n";
 
-    while ((cin >> Name >> value) && (Name != "NoName" && value != 0))
+    while ((cin >> Name >> value) && (Name != "NoName" || value != 0))
     {
         if(checkName(Name, list) == 1)
         {

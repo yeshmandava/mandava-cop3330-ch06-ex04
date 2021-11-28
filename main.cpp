@@ -50,7 +50,6 @@ int checkName(string name,vector<Name_Value>list)
         {
             return 1;
         }
-        else
-            return 0;
     }
+    return 0;
 }
